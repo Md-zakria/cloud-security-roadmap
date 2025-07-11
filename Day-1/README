@@ -1,0 +1,10 @@
+# Day 1 – Wireshark Notes
+
+**What I did:**
+- Installed Wireshark
+- Captured live network traffic
+
+**Protocols Seen:**
+- HTTP
+- DNS
+- ICMP
